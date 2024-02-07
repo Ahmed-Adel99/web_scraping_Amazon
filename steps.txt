@@ -1,0 +1,19 @@
+i need this steps in coding in python
+
+1- go to to https://gaming.amazon.com/home 
+2- sign in in website and enter user name and password 
+user name =joefee.ltheburn@gmail.com 
+password = ryad2030$
+3-if no log in try enter user and password when log in successful
+4- if get Captcha stop when i solved it 
+5- after log in open new tab and goto this website = https://www.amazon.com/ax/account/manage?openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fya%3Fie%3DUTF8%26ref_%3Dya_cnep&openid.assoc_handle=anywhere_v2_us&pageId=anywhere_us&shouldShowPasskeyLink=true&passkeyEligibilityArb=c67bd85c-9394-417a-b389-c15f64a4c2fe&passkeyMetricsActionId=be3cba4d-bc19-4606-a492-c4e732fbbf15
+
+6- click add button in primary mobile number
+
+7- enter password 
+
+8- click sign in
+
+9- wait me after add my number and open new tab goto this website = https://gaming.amazon.com/home
+
+
